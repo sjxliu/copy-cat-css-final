@@ -1,0 +1,30 @@
+.navbar {
+    background-color: black !important;
+    color: white;
+
+}
+
+#head h1 {
+   
+    color: green;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 108px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#head h4 {
+    color: #117a37;
+}
+
+
+#head {
+    background-color: rgb(41, 65, 171);
+    text-align: center;
+    height: 100vh;
+}
+
+footer {
+    display: block;
+}
